@@ -15,7 +15,7 @@ Let's hear the results converted back to sounds:
 > Audios for VoiceBank + DEMAND example: 
 > Example 1:
 
-[Input example]<iframe name="music" src="https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/prediction_denoisy_audio/p232_005.wav" marginwidth="1px" marginheight="20px" width=100% height="80px" frameborder=1 　scrolling="yes">
+[Input example][noisy_audio.zip](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/files/15179165/noisy_audio.zip)
 
 [Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/prediction_denoisy_audio/p232_005.wav)
 
