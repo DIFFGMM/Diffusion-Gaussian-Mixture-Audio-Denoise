@@ -1,4 +1,4 @@
-![image](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/1464341a-8b7a-466b-9730-247ea6bc20b4)
+
 # Diffusion-Gaussian-Mixture-Audio-Denoise
 
 ## Abstract
@@ -17,7 +17,7 @@ Let's hear the results converted back to sounds:
 
 
 
-[Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/b68faae3-9f99-4dfb-97e6-05caba2fc228)
+[Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/13a86efd-1037-4ecb-bd7c-6ee831012a7f height='200')
 
 [Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/prediction_denoisy_audio/p232_005.wav)
 
