@@ -12,13 +12,10 @@ Recent diffusion models achieved promising performances in audio-denoising tasks
 
 Let's hear the results converted back to sounds:
 
-> Audios for VoiceBank + DEMAND example: 
+> Audios for VoiceBank + DEMAND example:
+> 
 > Example 1:
-
-
-
-[Input example]
-(https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/13a86efd-1037-4ecb-bd7c-6ee831012a7f)
+[Input example] (https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/13a86efd-1037-4ecb-bd7c-6ee831012a7f)
 
 [Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/prediction_denoisy_audio/p232_005.wav)
 
