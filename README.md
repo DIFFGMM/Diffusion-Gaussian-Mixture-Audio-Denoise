@@ -13,37 +13,36 @@ Recent diffusion models achieved promising performances in audio-denoising tasks
 Let's hear the results converted back to sounds:
 
 > Audios for VoiceBank + DEMAND example:
-> 
 > Example 1:
+> 
 [Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/13a86efd-1037-4ecb-bd7c-6ee831012a7f)
 
-[Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/prediction_denoisy_audio/p232_005.wav)
+[Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/d67c6af3-4c43-469f-8130-8c07b2f52486)
 
 > Example 2:
 
-[Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/noisy_audio/p232_007.wav)
 
-[Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/prediction_denoisy_audio/p232_007.wav)
+[Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/716e7cbb-c07f-4c27-93ba-ed10f93ff8fd)
+
+[Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/636b8c44-5e79-47c0-8f01-81ee75249ca8)
 
 > Example 3:
 
-[Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/noisy_audio/p232_293.wav)
+[Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/133dab48-39ac-4fb1-ba84-327d435966d8)
 
-[Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/prediction_denoisy_audio/p232_293.wav)
+[Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/3803a889-6570-457b-809f-b1a76466932c)
 
 > Example 4:
 
-[Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/noisy_audio/p257_426.wav)
+[Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/2b650eb8-40c3-4a3f-97fa-e282efd864c2)
 
-[Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/prediction_denoisy_audio/p257_426.wav)
+[Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/prediction_denoisy_audio/p257_426.wav)e
 
 > Example 5:
 
-[Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/noisy_audio/p257_432.wav)
+[Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/ca134157-65a8-4184-ad41-b2876fa41f67)
 
 [Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/prediction_denoisy_audio/p257_432.wav)
-
-
 
 
 
