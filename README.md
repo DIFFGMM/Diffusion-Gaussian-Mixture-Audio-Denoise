@@ -1,4 +1,4 @@
-
+![image](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/1464341a-8b7a-466b-9730-247ea6bc20b4)
 # Diffusion-Gaussian-Mixture-Audio-Denoise
 
 ## Abstract
@@ -15,7 +15,9 @@ Let's hear the results converted back to sounds:
 > Audios for VoiceBank + DEMAND example: 
 > Example 1:
 
-[Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/86a136fa-d7b0-4964-8bf9-a7e184d2f039)
+
+
+[Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/b68faae3-9f99-4dfb-97e6-05caba2fc228)
 
 [Predicted output example ](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/blob/main/audio/prediction_denoisy_audio/p232_005.wav)
 
