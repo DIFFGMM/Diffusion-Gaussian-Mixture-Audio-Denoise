@@ -1,27 +1,16 @@
 
-# Speech-enhancement
+# Diffusion-Gaussian-Mixture-Audio-Denoise
 ---
 [![Build Status](https://travis-ci.com/vbelz/Speech-enhancement.svg?branch=master)](https://travis-ci.com/vbelz/Speech-enhancement)
 >Vincent Belz : vincent.belz@gmail.com
 >
 >Published in towards data science : [Speech-enhancement with Deep learning](https://towardsdatascience.com/speech-enhancement-with-deep-learning-36a1991d3d8d)
 >
-## Introduction
-**This project aims at building a speech enhancement system to attenuate environmental noise.**
-
-<img src="img/denoise_10classes.gif" alt="Spectrogram denoising" title="Speech enhancement"/>
-
-
-
-Audios have many different ways to be represented, going from raw time series to time-frequency decompositions.
-The choice of the representation is crucial for the performance of your system.
-Among time-frequency decompositions, Spectrograms have been proved to be a useful representation for audio processing. They consist in 2D images representing sequences of Short Time Fourier Transform (STFT) with time and frequency as axes, and brightness representing the strength of a frequency component at each time frame. In such they appear a natural domain to apply the CNNS architectures for images directly to sound. Between magnitude and phase spectrograms, magnitude spectrograms contain most the structure of the signal. Phase spectrograms appear to show only little temporal and spectral regularities.
-
-In this project, I will use magnitude spectrograms as a representation of sound (cf image below) in order to predict the noise model to be subtracted to a noisy voice spectrogram.
+## Abstract
+Recent diffusion models achieved promising performances in audio-denoising tasks. The unique property of the reverse process could recover super clean signals. However, the distribution of real-world noises does not comply with single Gaussian distribution and is even unknown. The sampling of Gaussian noise conditions limits its application scenarios. In other words, one single Gaussian distribution is not enough to represent the original noise distribution. To overcome these challenges, this paper proposes DiffGMM, a denoising model based on the diffusion and Gaussian mixture models. We employ the reverse process to estimate parameters for the Gaussian mixture model. Given a noisy audio signal, we first use a 1D-U-Net to extract features and train linear layers to estimate parameters for the Gaussian mixing model, and we can approximate the real noise distribution. The noisy signal is continuously subtracted from the estimated noise to output clean audio signals. Extensive experimental results demonstrate that the proposed DiffGMM model achieves state-of-the-art performance.
 
 <img src="img/sound_to_spectrogram.png" alt="sound representation" title="sound representation" />
 
-The project is decomposed in three modes: `data creation`, `training` and `prediction`.
 
 ## Prepare the data
 
