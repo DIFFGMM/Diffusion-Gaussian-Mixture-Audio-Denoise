@@ -52,23 +52,23 @@ Below some examples:
 
 > Example 1:
 
-<img src="docs/005.png" alt="audio denoising" title="audio denoising samples"/>
+<img src="spectrograms/005.png" alt="audio denoising" title="audio denoising samples"/>
 
 > Example 2:
 
-<img src="docs/007.png" alt="audio denoising" title="audio denoising samples"/>
+<img src="spectrograms/007.png" alt="audio denoising" title="audio denoising samples"/>
 
 > Example 3:
 
-<img src="docs/293.png" alt="audio denoising" title="audio denoising samples"/>
+<img src="spectrograms/293.png" alt="audio denoising" title="audio denoising samples"/>
 
 > Example 4:
 
-<img src="docs/426.png" alt="audio denoising" title="audio denoising samples"/>
+<img src="spectrograms/426.png" alt="audio denoising" title="audio denoising samples"/>
 
 > Example 5:
 
-<img src="docs/432.png" alt="audio denoising" title="audio denoising samples"/>
+<img src="spectrograms/432.png" alt="audio denoising" title="audio denoising samples"/>
 
 
 ## License
