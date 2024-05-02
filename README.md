@@ -52,7 +52,7 @@ Predicted audio
 Raw audio
 [Input example](https://github.com/PuWang-LP/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/ca134157-65a8-4184-ad41-b2876fa41f67)
 Group Truth
-> [GT]https://github.com/DIFFGMM/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/0a246944-ed55-434f-b172-39aee4836418
+> [GT](https://github.com/DIFFGMM/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/0a246944-ed55-434f-b172-39aee4836418)
 Predicted audio
 [Predicted output example](https://github.com/DIFFGMM/Diffusion-Gaussian-Mixture-Audio-Denoise/assets/117755153/3cb540f2-f56c-4737-8e9c-4b81525ebcd2)
 
